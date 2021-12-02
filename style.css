@@ -445,7 +445,7 @@ img {
           filter: blur(100px);
   z-index: -1;
   display: block;
-  background-image: url(images/banner-back.png);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/images/banner-back.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -1016,7 +1016,7 @@ img {
 }
 
 .product_wrapper .product_block .form_wrapper .form_block .form-group select {
-  background-image: url(images/dropdown.png);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/dropdown.png);
   background-repeat: no-repeat;
   background-position: right 20px center;
   color: #888888;
@@ -1067,7 +1067,7 @@ img {
 }
 
 .product_wrapper .product_block .form_wrapper .form_block .form-group .form-check .form-check-input:checked[type="checkbox"] {
-  background-image: url(images/right.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/right.svg);
   background-color: #707070;
 }
 
@@ -1660,7 +1660,7 @@ img {
           filter: blur(100px);
   z-index: -1;
   display: block;
-  background-image: url(images/product-banner.png);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/product-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 50%;
@@ -1954,3 +1954,4 @@ footer h4 {
 }
 
 /* FOOTER CSS END'S HERE */
+/*# sourceMappingURL=style.css.map */

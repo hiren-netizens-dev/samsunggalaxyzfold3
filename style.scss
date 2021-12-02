@@ -412,7 +412,7 @@ img {
         filter: blur(100px);
         z-index: -1;
         display: block;
-        background-image: url(images/banner-back.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/images/banner-back.png);
         background-repeat: no-repeat;
         background-size: cover;
         height: 100%;
@@ -785,13 +785,13 @@ img {
                         color: #888888;
                     }
                     select {
-                        background-image: url(images/dropdown.png);
+                        background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/dropdown.png);
                         background-repeat: no-repeat;
                         background-position: right 20px center;
                         color: #888888;
                         cursor: pointer;
                         &:focus {
-                            border: 1px solid #c2c2c2;
+                            border: 1px solid #c2c2c2; 
                         }
                         &.active {
                             color: #05060a;
@@ -824,7 +824,7 @@ img {
                                 border: 1px solid #707070;
                             }
                             &:checked[type="checkbox"] {
-                                background-image: url(images/right.svg);
+                                background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/right.svg);
                                 background-color: #707070;
                             }
                         }
@@ -1266,7 +1266,7 @@ img {
             filter: blur(100px);
             z-index: -1;
             display: block;
-            background-image: url(images/product-banner.png);
+            background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/product-banner.png);
             background-repeat: no-repeat;
             background-size: cover;
             height: 50%;
