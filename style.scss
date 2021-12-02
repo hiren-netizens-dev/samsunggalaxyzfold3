@@ -153,7 +153,7 @@ img {
 /* FONTS CSS START HERE */
 @font-face {
     font-family: "GeneralSans-Semibold";
-    src: url("fonts/GeneralSans-Bold.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/fonts/GeneralSans-Bold.woff2") format("woff2");
     font-weight: 600;
     font-display: swap;
     font-style: normal;
@@ -161,7 +161,7 @@ img {
 
 @font-face {
     font-family: "GeneralSans-Regular";
-    src: url("fonts/GeneralSans-Regular.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/fonts/GeneralSans-Regular.woff2") format("woff2");
     font-weight: 400;
     font-display: swap;
     font-style: normal;
@@ -171,13 +171,13 @@ img {
     font-family: "Samsung Sharp Sans Regular";
     font-display: swap;
     font-style: normal;
-    src: local("Samsung Sharp Sans Regular"), url("fonts/samsungsharpsans.woff") format("woff");
+    src: local("Samsung Sharp Sans Regular"), url("https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/fonts/samsungsharpsans.woff") format("woff");
 }
 @font-face {
     font-family: "Samsung Sharp Sans Bold";
     font-display: swap;
     font-style: normal;
-    src: local("Samsung Sharp Sans Bold"), url("fonts/samsungsharpsans-bold.woff") format("woff");
+    src: local("Samsung Sharp Sans Bold"), url("https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/fonts/samsungsharpsans-bold.woff") format("woff");
 }
 
 /* FONTS CSS END'S HERE */
@@ -251,7 +251,7 @@ img {
 .col-md-2,
 .col-md-3,
 .col-md-4,
-.col-md-5,
+.col-md-5, 
 .col-md-6,
 .col-md-7,
 .col-md-8,
@@ -785,9 +785,9 @@ img {
                         color: #888888;
                     }
                     select {
-                        background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/dropdown.png);
+                        background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/images/dropdown.png);
                         background-repeat: no-repeat;
-                        background-position: right 20px center;
+                        background-position: right 20px center; 
                         color: #888888;
                         cursor: pointer;
                         &:focus {
@@ -1266,7 +1266,7 @@ img {
             filter: blur(100px);
             z-index: -1;
             display: block;
-            background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/product-banner.png);
+            background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/samsunggalaxyzfold3/images/product-banner.png);
             background-repeat: no-repeat;
             background-size: cover;
             height: 50%;
